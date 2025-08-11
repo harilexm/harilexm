@@ -14,4 +14,4 @@
 
 [![harilexm](https://github-profile-trophy.vercel.app/?username=harilexm&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![harilexm](https://github-profile-trophy.vercel.app/?username=harilexm&theme=aura)]
+[![harilexm](https://github-profile-trophy.vercel.app/?username=harilexm&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
