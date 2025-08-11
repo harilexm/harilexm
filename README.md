@@ -20,3 +20,5 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
+
+[![harilexm GitHub stats](https://github-readme-stats.vercel.app/api?username=harilexm)](https://github.com/anuraghazra/github-readme-stats)
