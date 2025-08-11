@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-[![harilexm's GitHub stats](https://github-readme-stats.vercel.app/api?username=harilexm)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harilexm&layout=compact)
+[![harilexm's GitHub stats](https://github-readme-stats.vercel.app/api?username=harilexm&theme=radica)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harilexm&layout=compact&theme=radica)
 
 [![harilexm](https://github-profile-trophy.vercel.app/?username=harilexm)](https://github.com/ryo-ma/github-profile-trophy)
