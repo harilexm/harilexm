@@ -13,3 +13,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harilexm&layout=compact&theme=radical)
 
 [![harilexm](https://github-profile-trophy.vercel.app/?username=harilexm&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=harilexm&theme=aura
