@@ -1,4 +1,4 @@
-## Hi! I am Umer(Abedano), a Machine Learning Engineer(MLE).  👋
+## I am Umer Abdullah & my interest is in AI technology.  👋
 
 <p align="center">
   <a href="https://skillicons.dev">
