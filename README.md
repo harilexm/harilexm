@@ -1,4 +1,4 @@
-## I am Umer Abdullah & my interest is in AI technology.  👋
+## I am Umer & I work with AI.  👋
 
 <p align="center">
   <a href="https://skillicons.dev">
