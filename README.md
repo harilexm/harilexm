@@ -1,6 +1,6 @@
 ## I am Umer & I work with AI.  👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=5028&pause=1000&color=82FF00&background=FF000000&center=true&Center=true&random=true&width=435&lines=Things+I'm+INTERESTED+IN..." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=1028&pause=1000&color=82FF00&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Things+I'm+INTERESTED+IN...)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://skillicons.dev">
